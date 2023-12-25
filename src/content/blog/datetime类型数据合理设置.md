@@ -3,7 +3,7 @@ author: 浥青城
 pubDatetime: 2023-10-27T15:07:04
 title: datetime类型数据设置
 postSlug: datetime类型数据设置
-featured: true
+featured: false
 draft: false
 tags:
   - 后端
