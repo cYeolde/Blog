@@ -13,7 +13,7 @@ const blog = defineCollection({
       postSlug: z.string().optional(),//文章的slug标识符
       featured: z.boolean().optional(),//文章是否为特色文章
       draft: z.boolean().optional(),//文章是否为草稿
-      tags: z.array(z.string()).default(["others"]),
+      tags: z.array(z.string()).default(["其他"]),
       ogImage: image()
         .refine(img => img.width >= 1200 && img.height >= 630, {
           message: "OpenGraph image must be at least 1200 X 630 pixels!",
@@ -22,6 +22,7 @@ const blog = defineCollection({
         .optional(),//文章的OpenGraph图片
       description: z.string(),
       canonicalURL: z.string().optional(),//规范URL
+      readingTime: z.string().optional(),//预计阅读时间 frontmatter
     }),
 });
 
