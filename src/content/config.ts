@@ -22,7 +22,6 @@ const blog = defineCollection({
         .optional(),//文章的OpenGraph图片
       description: z.string(),
       canonicalURL: z.string().optional(),//规范URL
-      readingTime: z.string().optional(),//预计阅读时间 frontmatter
     }),
 });
 
