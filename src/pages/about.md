@@ -13,5 +13,3 @@ AstroPaper是一个最小、响应迅速、可访问和SEO友好的Astro博客�
 模板的使用人和改进人是：[ryan6073 (Jiashun Zhu)](https://github.com/ryan6073) 💘 [cYeolde](https://github.com/cYeolde)。
 
 最初的模板由 [Sat Naing](https://satnaing.dev/) 👨🏻 💻 和[贡献者](https://github.com/satnaing/astro-paper/graphs/contributors)制作🤍。
-
-cd
