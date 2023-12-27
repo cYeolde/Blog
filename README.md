@@ -79,7 +79,7 @@ All blog posts are stored in `src/content/blog` directory.
 Documentation can be read in two formats\_ _markdown_ & _blog post_.
 
 - Configuration－[markdown](src/content/blog/astropaper配置主题.md) | [blog post](https://yeolde.fun/posts/astropaper配置主题/)
-- Add Posts - [markdown](src/content/blog/astropaper创建新文章.md) | [blog post](https://yeolde.cn/posts/astropaper创建新文章/)
+- Add Posts - [markdown](src/content/blog/astropaper创建新文章.md) | [blog post](https://yeolde.fun/posts/astropaper创建新文章/)
 
 ## 💻 Tech Stack
 

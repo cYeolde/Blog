@@ -76,7 +76,7 @@ Astro在`src/pages/`目录中查找 `.astro` 或者 `.md`文件。每个页面�
 文档有两种方式可供阅读\_ _markdown_ & _blog post_.
 
 - 配置主题－[markdown](src/content/blog/astropaper配置主题.md) | [blog post](https://yeolde.fun/posts/astropaper配置主题/)
-- 创建新文章 - [markdown](src/content/blog/astropaper创建新文章.md) | [blog post](https://yeolde.cn/posts/astropaper创建新文章/)
+- 创建新文章 - [markdown](src/content/blog/astropaper创建新文章.md) | [blog post](https://yeolde.fun/posts/astropaper创建新文章/)
 
 ## 💻 技术栈
 
